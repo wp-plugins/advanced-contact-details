@@ -32,7 +32,7 @@ Check the demo here on our website: <ul><li> <a href="http://personalized.comxa.
 
 = Support & Customizations =
 
-If you have any questions regarding the plugin then feel free to contact me. You can also contact me if you need any sort of customizations in the plugin like color and styling changes, or functional changes. Click here to contact me if you need any sort of customizations: jeney.wordpress@gmail.com. Customizations will be charged as per requirement.
+If you have any questions regarding the plugin then feel free to contact me. You can also contact me if you need any sort of customizations in the plugin like color and styling changes, or functional changes. Click here to contact me if you need any sort of customizations: jeney.wordpress@gmail.com. 
 If you find any bugs in my plugin, let me know.I will be glad to see your valuable reviews here which will help me to improve this wordpress plugin for you.
 
 Plugin by: Jeney Thomas
