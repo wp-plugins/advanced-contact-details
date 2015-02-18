@@ -26,7 +26,7 @@ Check the demo here on our website: <ul><li> <a href="http://personalized.comxa.
 1. Your Can Easily Add Contact Details and upload icons.
 2. Easy Settings.
 3. Shortcode for pages/posts editor- [contact_details title=your title id=yourid]
-4. Php code for template file- <?php echo do_shortcode('[contact_details title=your title id=yourid]'); ?>
+4. Php code for template file - <?php echo do_shortcode('[contact_details title=your title id=yourid]'); ?>
 5. You can assign a single contact item to multiple pages.
 6. You can even create a multiple contact items to on one page also.
 
