@@ -52,9 +52,9 @@ If you need any customizations in your wordpress theme then feel free to contact
 == Screenshots ==
 
 1. Demo of details page on website.
-2. Demo of admin panel from wordpress admin panel.
+2. Demo Of add/edit contact details from wordpress admin panel.
 3. Demo Of settings from wordpress admin panel.
-4. Demo Of add/edit contact details from wordpress admin panel.
+4. Demo of admin panel from wordpress admin panel.
 
 == Changelog ==
 
